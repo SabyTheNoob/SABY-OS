@@ -4,8 +4,8 @@
 
 1. **Navigate to the Project Directory:**
    Run the following command in your terminal:
-  '''bash
-  cd Comment  '''
+  ```bash
+      cd Saby-OS ```
 3. **Open the index.html File in Your Browser:**
 For best results, open it on a desktop browser for a full OS-like experience.
 Alternatively, use a live server extension (like in VSCode) to host it locally and access it from localhost.
